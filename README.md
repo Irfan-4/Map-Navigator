@@ -44,5 +44,4 @@ Showcased the practical significance of data structures and algorithms in real-w
 -Efficient on Dense Graphs: Dijkstra's algorithm tends to perform well on dense graphs with many edges.
 
 -Primarily for Shortest Path: Dijkstra's algorithm is specifically designed for solving the single-source shortest path problem. It's a straightforward algorithm that's easy to implement and understand.
-    
     In summary, while Dijkstra's algorithm is a versatile and effective solution for various scenarios, it's important to assess the specific characteristics of your problem, including edge weights, graph density, and desired outcomes, to determine whether it's the best choice or if other algorithms would better meet your needs.
