@@ -1,4 +1,6 @@
 # Map-Navigator
+Graph2.java cointains all the major code and heap.java contains heap implementation.
+
 
 Project Summary: Metro Map Navigator
 
